@@ -16,3 +16,4 @@ carro.ano = 2024;
 
 console.log(carro); // Mostra todo o objeto no console.
 // IMPORTANTE: imprimir o array ou objeto inteiro só funciona no console.   
+
